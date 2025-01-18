@@ -1,13 +1,13 @@
-package SINARAHUATORRES.SINARAHUATORRES;
+package Gateway.Gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SinarahuatorresApplication {
+public class GatewayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SinarahuatorresApplication.class, args);
+		SpringApplication.run(GatewayApplication.class, args);
 	}
 
 }
