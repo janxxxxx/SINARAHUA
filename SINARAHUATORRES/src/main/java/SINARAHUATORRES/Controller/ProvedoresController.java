@@ -1,4 +1,4 @@
-package MSProveedor.Controller;
+package SINARAHUATORRES.Controller;
 
 import java.util.HashMap;
 import java.util.List;
@@ -19,9 +19,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import MSProveedor.endpoints.Endpoints;
-import MSProveedor.model.modelProvedor;
-import MSProveedor.service.ProvedoresService;
+import SINARAHUATORRES.endpoints.Endpoints;
+import SINARAHUATORRES.model.modelProvedor;
+import SINARAHUATORRES.service.ProvedoresService;
 import jakarta.validation.Valid;
 
 @RestController
